@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @artoskuma
-- 👀 I’m interested languages, games, astronomy.
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on help and support
-- 📫 How to reach me linktr.ee/artos127
+- 👀 I’m interested in languages, games, astronomy.
+- 🌱 I’m currently learning: HTML, CSS, JS
+- 💞️ I’m looking to collaborate for help and support
+- 📫 How to reach me https://www.linktr.ee/artos127
 
 <!---
 artoskuma/artoskuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
